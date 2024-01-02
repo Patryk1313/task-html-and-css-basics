@@ -26,26 +26,26 @@
 .header__section .nav__list .nav__item a {
   font-size: 14px;
 }
-.header__section .header_mainText {
+.header__section article {
   min-height: 450px;
   padding-top: 50px;
   color: #fff;
 }
-.header__section .header_mainText h2 {
+.header__section article h2 {
   font-size: 36px;
   font-family: "Montserrat";
   font-weight: bold;
   padding: 20px 0 20px 0;
 }
-.header__section .header_mainText p {
+.header__section article p {
   font-size: 18px;
   line-height: 30px;
 }
-.header__section .header_mainText .header__button--primary {
+.header__section article .header__button--primary {
   border: 1px solid #25F18B;
   background-color: #25F18B;
 }
-.header__section .header_mainText .header__button--primary a {
+.header__section article .header__button--primary a {
   font-size: 14px;
 }
 .header__section .header_image .imgbox {
